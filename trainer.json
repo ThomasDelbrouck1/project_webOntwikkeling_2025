@@ -1,0 +1,83 @@
+[
+    {
+      "id": 101,
+      "name": "Ash Ketchum",
+      "age": 10,
+      "isChampion": false,
+      "imageUrl": "images/ash.png",
+      "region": "Kanto"
+    },
+    {
+      "id": 102,
+      "name": "Leon",
+      "age": 21,
+      "isChampion": true,
+      "imageUrl": "images/leon.png",
+      "region": "Galar"
+    },
+    {
+      "id": 103,
+      "name": "Misty",
+      "age": 14,
+      "isChampion": false,
+      "imageUrl": "images/misty.png",
+      "region": "Kanto"
+    },
+    {
+      "id": 104,
+      "name": "Brock",
+      "age": 15,
+      "isChampion": false,
+      "imageUrl": "images/brock.png",
+      "region": "Kanto"
+    },
+    {
+      "id": 105,
+      "name": "Agatha",
+      "age": 70,
+      "isChampion": false,
+      "imageUrl": "images/agatha.png",
+      "region": "Kanto"
+    },
+    {
+      "id": 106,
+      "name": "Lance",
+      "age": 30,
+      "isChampion": true,
+      "imageUrl": "images/lance.png",
+      "region": "Johto"
+    },
+    {
+      "id": 107,
+      "name": "Riley",
+      "age": 28,
+      "isChampion": false,
+      "imageUrl": "images/riley.png",
+      "region": "Sinnoh"
+    },
+    {
+      "id": 108,
+      "name": "Serena",
+      "age": 16,
+      "isChampion": false,
+      "imageUrl": "images/serena.png",
+      "region": "Kalos"
+    },
+    {
+      "id": 109,
+      "name": "Red",
+      "age": 18,
+      "isChampion": true,
+      "imageUrl": "images/red.png",
+      "region": "Kanto"
+    },
+    {
+      "id": 110,
+      "name": "Giovanni",
+      "age": 45,
+      "isChampion": false,
+      "imageUrl": "images/giovanni.png",
+      "region": "Kanto"
+    }
+  ]
+  
