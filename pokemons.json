@@ -1,221 +1,221 @@
 [
-    {
-      "id": 1,
-      "name": "Pikachu",
-      "description": "Een elektrische muis Pokémon met bliksemschichten.",
-      "level": 25,
-      "isActive": true,
-      "birthdate": "1996-02-27",
-      "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/pikachu.png",
-      "type": "Electric",
-      "abilities": [
-        "Static",
-        "Lightning Rod"
-      ],
-      "trainer": {
-        "id": 101,
-        "name": "Ash Ketchum",
-        "age": 10,
-        "isChampion": false,
-        "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/ash.png",
-        "region": "Kanto"
-      }
-    },
-    {
-      "id": 2,
-      "name": "Charizard",
-      "description": "Een krachtige vuur- en vliegend-type Pokémon met vlammenadem.",
-      "level": 50,
-      "isActive": true,
-      "birthdate": "1996-02-27",
-      "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/charizard.png",
-      "type": "Fire",
-      "abilities": [
-        "Blaze",
-        "Solar Power"
-      ],
-      "trainer": {
-        "id": 102,
-        "name": "Leon",
-        "age": 21,
-        "isChampion": true,
-        "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/leon.png",
-        "region": "Galar"
-      }
-    },
-    {
-      "id": 3,
-      "name": "Bulbasaur",
-      "description": "Een gras- en gif-type Pokémon met een plant op zijn rug.",
-      "level": 16,
-      "isActive": true,
-      "birthdate": "1996-02-27",
-      "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/bulbasaur.png",
-      "type": "Grass",
-      "abilities": [
-        "Overgrow",
-        "Chlorophyll"
-      ],
-      "trainer": {
-        "id": 103,
-        "name": "Misty",
-        "age": 14,
-        "isChampion": false,
-        "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/misty.png",
-        "region": "Kanto"
-      }
-    },
-    {
-      "id": 4,
-      "name": "Squirtle",
-      "description": "Een water-type Pokémon die waterstralen gebruikt.",
-      "level": 18,
-      "isActive": false,
-      "birthdate": "1996-02-27",
-      "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/squirtle.png",
-      "type": "Water",
-      "abilities": [
-        "Torrent",
-        "Rain Dish"
-      ],
-      "trainer": {
-        "id": 104,
-        "name": "Brock",
-        "age": 15,
-        "isChampion": false,
-        "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/brock.png",
-        "region": "Kanto"
-      }
-    },
-    {
-      "id": 5,
-      "name": "Gengar",
-      "description": "Een spook- en gif-type Pokémon die schaduwen gebruikt om te bewegen.",
-      "level": 45,
-      "isActive": true,
-      "birthdate": "1996-02-27",
-      "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/gengar.png",
-      "type": "Ghost",
-      "abilities": [
-        "Cursed Body"
-      ],
-      "trainer": {
-        "id": 105,
-        "name": "Agatha",
-        "age": 70,
-        "isChampion": false,
-        "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/agatha.png",
-        "region": "Kanto"
-      }
-    },
-    {
-      "id": 6,
-      "name": "Dragonite",
-      "description": "Een zeldzame draak Pokémon die kan vliegen met hoge snelheid.",
-      "level": 55,
-      "isActive": true,
-      "birthdate": "1996-02-27",
-      "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/dragonite.png",
-      "type": "Dragon",
-      "abilities": [
-        "Inner Focus",
-        "Multiscale"
-      ],
-      "trainer": {
-        "id": 106,
-        "name": "Lance",
-        "age": 30,
-        "isChampion": true,
-        "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/lance.png",
-        "region": "Johto"
-      }
-    },
-    {
-      "id": 7,
-      "name": "Lucario",
-      "description": "Een vecht- en staal-type Pokémon die aura's kan waarnemen.",
-      "level": 40,
-      "isActive": true,
-      "birthdate": "2006-02-27",
-      "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/lucario.png",
-      "type": "Fighting",
-      "abilities": [
-        "Steadfast",
-        "Inner Focus"
-      ],
-      "trainer": {
-        "id": 107,
-        "name": "Riley",
-        "age": 28,
-        "isChampion": false,
-        "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/riley.png",
-        "region": "Sinnoh"
-      }
-    },
-    {
-      "id": 8,
-      "name": "Eevee",
-      "description": "Een veelzijdige Pokémon die in verschillende vormen kan evolueren.",
-      "level": 20,
-      "isActive": false,
-      "birthdate": "1996-02-27",
-      "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/eevee.png",
-      "type": "Normal",
-      "abilities": [
-        "Run Away",
-        "Adaptability"
-      ],
-      "trainer": {
-        "id": 108,
-        "name": "Serena",
-        "age": 16,
-        "isChampion": false,
-        "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/serena.png",
-        "region": "Kalos"
-      }
-    },
-    {
-      "id": 9,
-      "name": "Snorlax",
-      "description": "Een gigantische Pokémon die de meeste tijd slapend doorbrengt.",
-      "level": 35,
-      "isActive": false,
-      "birthdate": "1996-02-27",
-      "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/snorlax.png",
-      "type": "Normal",
-      "abilities": [
-        "Immunity",
-        "Thick Fat"
-      ],
-      "trainer": {
-        "id": 109,
-        "name": "Red",
-        "age": 18,
-        "isChampion": true,
-        "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/red.png",
-        "region": "Kanto"
-      }
-    },
-    {
-      "id": 10,
-      "name": "Mewtwo",
-      "description": "Een legendarische Pokémon met ongelooflijke psychische krachten.",
-      "level": 70,
-      "isActive": true,
-      "birthdate": "1996-02-27",
-      "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/mewtwo.png",
-      "type": "Psychic",
-      "abilities": [
-        "Pressure",
-        "Unnerve"
-      ],
-      "trainer": {
-        "id": 110,
-        "name": "Giovanni",
-        "age": 45,
-        "isChampion": false,
-        "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/giovanni.png",
-        "region": "Kanto"
-      }
+  {
+    "id": 1,
+    "name": "Pikachu",
+    "description": "Een elektrische muis Pokémon met bliksemschichten.",
+    "level": 25,
+    "isActive": true,
+    "birthdate": "1996-02-27",
+    "imageUrl": "https://raw.githubusercontent.com/ThomasDelbrouck1/project_webOntwikkeling_2025/refs/heads/main/images/pikachu.png",
+    "type": "Electric",
+    "abilities": [
+      "Static",
+      "Lightning Rod"
+    ],
+    "trainer": {
+      "id": 101,
+      "name": "Ash Ketchum",
+      "age": 10,
+      "isChampion": false,
+      "imageUrl": "https://raw.githubusercontent.com/ThomasDelbrouck1/project_webOntwikkeling_2025/refs/heads/main/images/ash.png",
+      "region": "Kanto"
     }
-  ]
+  },
+  {
+    "id": 2,
+    "name": "Charizard",
+    "description": "Een krachtige vuur- en vliegend-type Pokémon met vlammenadem.",
+    "level": 50,
+    "isActive": true,
+    "birthdate": "1996-02-27",
+    "imageUrl": "https://raw.githubusercontent.com/ThomasDelbrouck1/project_webOntwikkeling_2025/refs/heads/main/images/charizard.png",
+    "type": "Fire",
+    "abilities": [
+      "Blaze",
+      "Solar Power"
+    ],
+    "trainer": {
+      "id": 102,
+      "name": "Leon",
+      "age": 21,
+      "isChampion": true,
+      "imageUrl": "https://raw.githubusercontent.com/ThomasDelbrouck1/project_webOntwikkeling_2025/refs/heads/main/images/leon.png",
+      "region": "Galar"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Bulbasaur",
+    "description": "Een gras- en gif-type Pokémon met een plant op zijn rug.",
+    "level": 16,
+    "isActive": true,
+    "birthdate": "1996-02-27",
+    "imageUrl": "https://raw.githubusercontent.com/ThomasDelbrouck1/project_webOntwikkeling_2025/refs/heads/main/images/bulbasaur.png",
+    "type": "Grass",
+    "abilities": [
+      "Overgrow",
+      "Chlorophyll"
+    ],
+    "trainer": {
+      "id": 103,
+      "name": "Misty",
+      "age": 14,
+      "isChampion": false,
+      "imageUrl": "https://raw.githubusercontent.com/ThomasDelbrouck1/project_webOntwikkeling_2025/refs/heads/main/images/misty.png",
+      "region": "Kanto"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Squirtle",
+    "description": "Een water-type Pokémon die waterstralen gebruikt.",
+    "level": 18,
+    "isActive": false,
+    "birthdate": "1996-02-27",
+    "imageUrl": "https://raw.githubusercontent.com/ThomasDelbrouck1/project_webOntwikkeling_2025/refs/heads/main/images/squirtle.png",
+    "type": "Water",
+    "abilities": [
+      "Torrent",
+      "Rain Dish"
+    ],
+    "trainer": {
+      "id": 104,
+      "name": "Brock",
+      "age": 15,
+      "isChampion": false,
+      "imageUrl": "https://raw.githubusercontent.com/ThomasDelbrouck1/project_webOntwikkeling_2025/refs/heads/main/images/brock.png",
+      "region": "Kanto"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Gengar",
+    "description": "Een spook- en gif-type Pokémon die schaduwen gebruikt om te bewegen.",
+    "level": 45,
+    "isActive": true,
+    "birthdate": "1996-02-27",
+    "imageUrl": "https://raw.githubusercontent.com/ThomasDelbrouck1/project_webOntwikkeling_2025/refs/heads/main/images/gengar.png",
+    "type": "Ghost",
+    "abilities": [
+      "Cursed Body"
+    ],
+    "trainer": {
+      "id": 105,
+      "name": "Agatha",
+      "age": 70,
+      "isChampion": false,
+      "imageUrl": "https://raw.githubusercontent.com/ThomasDelbrouck1/project_webOntwikkeling_2025/refs/heads/main/images/agatha.png",
+      "region": "Kanto"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Dragonite",
+    "description": "Een zeldzame draak Pokémon die kan vliegen met hoge snelheid.",
+    "level": 55,
+    "isActive": true,
+    "birthdate": "1996-02-27",
+    "imageUrl": "https://raw.githubusercontent.com/ThomasDelbrouck1/project_webOntwikkeling_2025/refs/heads/main/images/dragonite.png",
+    "type": "Dragon",
+    "abilities": [
+      "Inner Focus",
+      "Multiscale"
+    ],
+    "trainer": {
+      "id": 106,
+      "name": "Lance",
+      "age": 30,
+      "isChampion": true,
+      "imageUrl": "https://raw.githubusercontent.com/ThomasDelbrouck1/project_webOntwikkeling_2025/refs/heads/main/images/lance.png",
+      "region": "Johto"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Lucario",
+    "description": "Een vecht- en staal-type Pokémon die aura's kan waarnemen.",
+    "level": 40,
+    "isActive": true,
+    "birthdate": "2006-02-27",
+    "imageUrl": "https://raw.githubusercontent.com/ThomasDelbrouck1/project_webOntwikkeling_2025/refs/heads/main/images/lucario.png",
+    "type": "Fighting",
+    "abilities": [
+      "Steadfast",
+      "Inner Focus"
+    ],
+    "trainer": {
+      "id": 107,
+      "name": "Riley",
+      "age": 28,
+      "isChampion": false,
+      "imageUrl": "https://raw.githubusercontent.com/ThomasDelbrouck1/project_webOntwikkeling_2025/refs/heads/main/images/riley.png",
+      "region": "Sinnoh"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Eevee",
+    "description": "Een veelzijdige Pokémon die in verschillende vormen kan evolueren.",
+    "level": 20,
+    "isActive": false,
+    "birthdate": "1996-02-27",
+    "imageUrl": "https://raw.githubusercontent.com/ThomasDelbrouck1/project_webOntwikkeling_2025/refs/heads/main/images/eevee.png",
+    "type": "Normal",
+    "abilities": [
+      "Run Away",
+      "Adaptability"
+    ],
+    "trainer": {
+      "id": 108,
+      "name": "Serena",
+      "age": 16,
+      "isChampion": false,
+      "imageUrl": "https://raw.githubusercontent.com/ThomasDelbrouck1/project_webOntwikkeling_2025/refs/heads/main/images/serena.png",
+      "region": "Kalos"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Snorlax",
+    "description": "Een gigantische Pokémon die de meeste tijd slapend doorbrengt.",
+    "level": 35,
+    "isActive": false,
+    "birthdate": "1996-02-27",
+    "imageUrl": "https://raw.githubusercontent.com/ThomasDelbrouck1/project_webOntwikkeling_2025/refs/heads/main/images/snorlax.png",
+    "type": "Normal",
+    "abilities": [
+      "Immunity",
+      "Thick Fat"
+    ],
+    "trainer": {
+      "id": 109,
+      "name": "Red",
+      "age": 18,
+      "isChampion": true,
+      "imageUrl": "https://raw.githubusercontent.com/ThomasDelbrouck1/project_webOntwikkeling_2025/refs/heads/main/images/red.png",
+      "region": "Kanto"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Mewtwo",
+    "description": "Een legendarische Pokémon met ongelooflijke psychische krachten.",
+    "level": 70,
+    "isActive": true,
+    "birthdate": "1996-02-27",
+    "imageUrl": "https://raw.githubusercontent.com/ThomasDelbrouck1/project_webOntwikkeling_2025/refs/heads/main/images/mewtwo.png",
+    "type": "Psychic",
+    "abilities": [
+      "Pressure",
+      "Unnerve"
+    ],
+    "trainer": {
+      "id": 110,
+      "name": "Giovanni",
+      "age": 45,
+      "isChampion": false,
+      "imageUrl": "https://raw.githubusercontent.com/ThomasDelbrouck1/project_webOntwikkeling_2025/refs/heads/main/images/giovanni.png",
+      "region": "Kanto"
+    }
+  }
+]

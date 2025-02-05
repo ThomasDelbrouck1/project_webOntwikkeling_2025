@@ -1,83 +1,82 @@
 [
-    {
-      "id": 101,
-      "name": "Ash Ketchum",
-      "age": 10,
-      "isChampion": false,
-      "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/ash.png",
-      "region": "Kanto"
-    },
-    {
-      "id": 102,
-      "name": "Leon",
-      "age": 21,
-      "isChampion": true,
-      "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/leon.png",
-      "region": "Galar"
-    },
-    {
-      "id": 103,
-      "name": "Misty",
-      "age": 14,
-      "isChampion": false,
-      "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/misty.png",
-      "region": "Kanto"
-    },
-    {
-      "id": 104,
-      "name": "Brock",
-      "age": 15,
-      "isChampion": false,
-      "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/brock.png",
-      "region": "Kanto"
-    },
-    {
-      "id": 105,
-      "name": "Agatha",
-      "age": 70,
-      "isChampion": false,
-      "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/agatha.png",
-      "region": "Kanto"
-    },
-    {
-      "id": 106,
-      "name": "Lance",
-      "age": 30,
-      "isChampion": true,
-      "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/lance.png",
-      "region": "Johto"
-    },
-    {
-      "id": 107,
-      "name": "Riley",
-      "age": 28,
-      "isChampion": false,
-      "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/riley.png",
-      "region": "Sinnoh"
-    },
-    {
-      "id": 108,
-      "name": "Serena",
-      "age": 16,
-      "isChampion": false,
-      "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/serena.png",
-      "region": "Kalos"
-    },
-    {
-      "id": 109,
-      "name": "Red",
-      "age": 18,
-      "isChampion": true,
-      "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/red.png",
-      "region": "Kanto"
-    },
-    {
-      "id": 110,
-      "name": "Giovanni",
-      "age": 45,
-      "isChampion": false,
-      "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/giovanni.png",
-      "region": "Kanto"
-    }
-  ]
-  
+  {
+    "id": 101,
+    "name": "Ash Ketchum",
+    "age": 10,
+    "isChampion": false,
+    "imageUrl": "https://raw.githubusercontent.com/ThomasDelbrouck1/project_webOntwikkeling_2025/refs/heads/main/images/ash.png",
+    "region": "Kanto"
+  },
+  {
+    "id": 102,
+    "name": "Leon",
+    "age": 21,
+    "isChampion": true,
+    "imageUrl": "https://raw.githubusercontent.com/ThomasDelbrouck1/project_webOntwikkeling_2025/refs/heads/main/images/leon.png",
+    "region": "Galar"
+  },
+  {
+    "id": 103,
+    "name": "Misty",
+    "age": 14,
+    "isChampion": false,
+    "imageUrl": "https://raw.githubusercontent.com/ThomasDelbrouck1/project_webOntwikkeling_2025/refs/heads/main/images/misty.png",
+    "region": "Kanto"
+  },
+  {
+    "id": 104,
+    "name": "Brock",
+    "age": 15,
+    "isChampion": false,
+    "imageUrl": "https://raw.githubusercontent.com/ThomasDelbrouck1/project_webOntwikkeling_2025/refs/heads/main/images/brock.png",
+    "region": "Kanto"
+  },
+  {
+    "id": 105,
+    "name": "Agatha",
+    "age": 70,
+    "isChampion": false,
+    "imageUrl": "https://raw.githubusercontent.com/ThomasDelbrouck1/project_webOntwikkeling_2025/refs/heads/main/images/agatha.png",
+    "region": "Kanto"
+  },
+  {
+    "id": 106,
+    "name": "Lance",
+    "age": 30,
+    "isChampion": true,
+    "imageUrl": "https://raw.githubusercontent.com/ThomasDelbrouck1/project_webOntwikkeling_2025/refs/heads/main/images/lance.png",
+    "region": "Johto"
+  },
+  {
+    "id": 107,
+    "name": "Riley",
+    "age": 28,
+    "isChampion": false,
+    "imageUrl": "https://raw.githubusercontent.com/ThomasDelbrouck1/project_webOntwikkeling_2025/refs/heads/main/images/riley.png",
+    "region": "Sinnoh"
+  },
+  {
+    "id": 108,
+    "name": "Serena",
+    "age": 16,
+    "isChampion": false,
+    "imageUrl": "https://raw.githubusercontent.com/ThomasDelbrouck1/project_webOntwikkeling_2025/refs/heads/main/images/serena.png",
+    "region": "Kalos"
+  },
+  {
+    "id": 109,
+    "name": "Red",
+    "age": 18,
+    "isChampion": true,
+    "imageUrl": "https://raw.githubusercontent.com/ThomasDelbrouck1/project_webOntwikkeling_2025/refs/heads/main/images/red.png",
+    "region": "Kanto"
+  },
+  {
+    "id": 110,
+    "name": "Giovanni",
+    "age": 45,
+    "isChampion": false,
+    "imageUrl": "https://raw.githubusercontent.com/ThomasDelbrouck1/project_webOntwikkeling_2025/refs/heads/main/images/giovanni.png",
+    "region": "Kanto"
+  }
+]
