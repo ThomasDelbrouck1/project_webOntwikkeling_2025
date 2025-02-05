@@ -6,7 +6,7 @@
       "level": 25,
       "isActive": true,
       "birthdate": "1996-02-27",
-      "imageUrl": "images/pikachu.png",
+      "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/pikachu.png",
       "type": "Electric",
       "abilities": [
         "Static",
@@ -17,7 +17,7 @@
         "name": "Ash Ketchum",
         "age": 10,
         "isChampion": false,
-        "imageUrl": "images/ash.png",
+        "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/ash.png",
         "region": "Kanto"
       }
     },
@@ -28,7 +28,7 @@
       "level": 50,
       "isActive": true,
       "birthdate": "1996-02-27",
-      "imageUrl": "images/charizard.png",
+      "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/charizard.png",
       "type": "Fire",
       "abilities": [
         "Blaze",
@@ -39,7 +39,7 @@
         "name": "Leon",
         "age": 21,
         "isChampion": true,
-        "imageUrl": "images/leon.png",
+        "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/leon.png",
         "region": "Galar"
       }
     },
@@ -50,7 +50,7 @@
       "level": 16,
       "isActive": true,
       "birthdate": "1996-02-27",
-      "imageUrl": "images/bulbasaur.png",
+      "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/bulbasaur.png",
       "type": "Grass",
       "abilities": [
         "Overgrow",
@@ -61,7 +61,7 @@
         "name": "Misty",
         "age": 14,
         "isChampion": false,
-        "imageUrl": "images/misty.png",
+        "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/misty.png",
         "region": "Kanto"
       }
     },
@@ -72,7 +72,7 @@
       "level": 18,
       "isActive": false,
       "birthdate": "1996-02-27",
-      "imageUrl": "images/squirtle.png",
+      "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/squirtle.png",
       "type": "Water",
       "abilities": [
         "Torrent",
@@ -83,7 +83,7 @@
         "name": "Brock",
         "age": 15,
         "isChampion": false,
-        "imageUrl": "images/brock.png",
+        "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/brock.png",
         "region": "Kanto"
       }
     },
@@ -94,7 +94,7 @@
       "level": 45,
       "isActive": true,
       "birthdate": "1996-02-27",
-      "imageUrl": "images/gengar.png",
+      "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/gengar.png",
       "type": "Ghost",
       "abilities": [
         "Cursed Body"
@@ -104,7 +104,7 @@
         "name": "Agatha",
         "age": 70,
         "isChampion": false,
-        "imageUrl": "images/agatha.png",
+        "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/agatha.png",
         "region": "Kanto"
       }
     },
@@ -115,7 +115,7 @@
       "level": 55,
       "isActive": true,
       "birthdate": "1996-02-27",
-      "imageUrl": "images/dragonite.png",
+      "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/dragonite.png",
       "type": "Dragon",
       "abilities": [
         "Inner Focus",
@@ -126,7 +126,7 @@
         "name": "Lance",
         "age": 30,
         "isChampion": true,
-        "imageUrl": "images/lance.png",
+        "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/lance.png",
         "region": "Johto"
       }
     },
@@ -137,7 +137,7 @@
       "level": 40,
       "isActive": true,
       "birthdate": "2006-02-27",
-      "imageUrl": "images/lucario.png",
+      "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/lucario.png",
       "type": "Fighting",
       "abilities": [
         "Steadfast",
@@ -148,7 +148,7 @@
         "name": "Riley",
         "age": 28,
         "isChampion": false,
-        "imageUrl": "images/riley.png",
+        "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/riley.png",
         "region": "Sinnoh"
       }
     },
@@ -159,7 +159,7 @@
       "level": 20,
       "isActive": false,
       "birthdate": "1996-02-27",
-      "imageUrl": "images/eevee.png",
+      "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/eevee.png",
       "type": "Normal",
       "abilities": [
         "Run Away",
@@ -170,7 +170,7 @@
         "name": "Serena",
         "age": 16,
         "isChampion": false,
-        "imageUrl": "images/serena.png",
+        "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/serena.png",
         "region": "Kalos"
       }
     },
@@ -181,7 +181,7 @@
       "level": 35,
       "isActive": false,
       "birthdate": "1996-02-27",
-      "imageUrl": "images/snorlax.png",
+      "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/snorlax.png",
       "type": "Normal",
       "abilities": [
         "Immunity",
@@ -192,7 +192,7 @@
         "name": "Red",
         "age": 18,
         "isChampion": true,
-        "imageUrl": "images/red.png",
+        "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/red.png",
         "region": "Kanto"
       }
     },
@@ -203,7 +203,7 @@
       "level": 70,
       "isActive": true,
       "birthdate": "1996-02-27",
-      "imageUrl": "images/mewtwo.png",
+      "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/mewtwo.png",
       "type": "Psychic",
       "abilities": [
         "Pressure",
@@ -214,7 +214,7 @@
         "name": "Giovanni",
         "age": 45,
         "isChampion": false,
-        "imageUrl": "images/giovanni.png",
+        "imageUrl": "https://github.com/ThomasDelbrouck1/project_webOntwikkeling_2025/blob/main/images/giovanni.png",
         "region": "Kanto"
       }
     }
